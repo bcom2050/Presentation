@@ -81,32 +81,5 @@
 <body>
   <div class="container">
     <header>
-      <!-- Replace src with your LinkedIn or hosted photo URL -->
-      <img class="profile-photo" src="https://via.placeholder.com/150" alt="Robert Dattolo Photo" />
-      <h1>Robert Dattolo</h1>
-      <p class="subtitle">Title / Profession (e.g. Software Engineer, Consultant, etc.)</p>
-    </header>
-
-    <section class="contact-info">
-      <h2>Contact Information</h2>
-      <ul>
-        <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-        <li>Phone: (123) 456‑7890</li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/robertdattolo" target="_blank">linkedin.com/in/robertdattolo</a></li>
-        <li>Address: Your City, State (optional)</li>
-      </ul>
-    </section>
-
-    <section class="placeholder-section">
-      <div class="placeholder">
-        <!-- Placeholder for “About Me” or bio / summary -->
-        <h3>About Me</h3>
-        <p>Brief summary or bio goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-      </div>
-      <div class="placeholder">
-        <!-- Placeholder for “Skills / Services / Expertise” -->
-        <h3>Services / Skills</h3>
-        <p>List or describe key skills, services, or areas of expertise.</p>
-      </div>
-      <div class="placeholder">
-        <!-- Placeholder
+      <!-- Replace src with your LinkedIn photo URL -->
+      <img class="profile-photo" src="https://media.licdn.com/dms/image/your‑linkedin‑photo‑link" alt="Robert Dattolo Photo
