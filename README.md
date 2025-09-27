@@ -78,19 +78,19 @@
     <img src="https://media.licdn.com/dms/image/v2/D5603AQGc0AoNyDb4gg/profile-displayphoto-scale_200_200/B56ZkKZTXfIAAY-/0/1756816030217?e=1761782400&v=beta&t=aJd4sm2jE_1zAVRGVY04SBg0yW44PkdW-HRFfK-0fY4" alt="" class="profile-photo" />
 
     <!-- 🙋 Name and Title -->
-    <h1>YOUR NAME</h1>
-    <h2>YOUR TITLE (e.g., Web Developer, Designer)</h2>
+    <h1>ROBERT DATTOLO</h1>
+    <h2>FOUNDER (Concise CS, LLC)</h2>
 
     <!-- 📝 Short Bio -->
     <p class="bio">
-      This is a short professional bio. You can write about your experience, passion, or what you're currently working on. Keep it concise and relevant.
+      Founder, Concise CS, LLC, Information Technology Services. ✦ Interested in hearing about what opportunity I can help you succeed in. Open to remote and contract work.
     </p>
 
     <!-- 📞 Contact Information -->
     <div class="contact">
-      <p>Email: <a href="mailto:email@example.com">email@example.com</a></p>
-      <p>Phone: <a href="tel:+1234567890">+123 456 7890</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+      <p>Email: <a href="mailto:robert@concisecs.com">robert@concisecs.com/a></p>
+      <p>Phone: <a href="tel:+1234567890">(586) 382-6900</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/robertdattolo" target="_blank">linkedin.com/in/yourprofile</a></p>
     </div>
   </div>
 </body>
