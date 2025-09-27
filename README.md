@@ -89,8 +89,8 @@
     <!-- 📞 Contact Information -->
     <div class="contact">
       <p>Email: <a href="mailto:robert@concisecs.com">robert@concisecs.com</a></p>
-      <p>Phone: <a href="tel:+1234567890">(586) 382-6900</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/robertdattolo" target="_blank">linkedin.com/in/yourprofile</a></p>
+      <p>Phone: <a href="tel:5863826900">(586) 382-6900</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/robertdattolo" target="_blank">linkedin.com/in/robertdattolo</a></p>
     </div>
   </div>
 </body>
