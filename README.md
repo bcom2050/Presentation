@@ -108,7 +108,7 @@ h2 {
       <p>Phone: <a href="tel:5863826900">(586) 382-6900</a></p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/robertdattolo" target="_blank">linkedin.com/in/robertdattolo</a></p>
       <p>PRESENTATION TUTORIAL: <a href="https://github.io" target="_blank">github.io</a></p>
-      <p>Concise CS: <a href="https://concisecs.com" target="_blank">concisecs.com</a></p>
+      <p>Concise CS, LLC: <a href="https://concisecs.com" target="_blank">concisecs.com</a></p>
 
     </div>
   </div>
