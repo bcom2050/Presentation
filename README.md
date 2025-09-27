@@ -11,13 +11,10 @@
       color: #e0e0e0;
       line-height: 1.6;
     }
-    html, body {
-      width: 100%;
-      overflow-x: hidden;
-    }
+
 
     .container {
-      max-width: 600px;
+      max-width: 100%;
       margin: 0 auto;
       padding: 2rem 1rem;
       display: flex;
