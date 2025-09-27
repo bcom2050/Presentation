@@ -3,83 +3,101 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Robert Dattolo | Contact</title>
+  <title>Your Name - Personal Bio</title>
   <style>
+    /* GitHub-like theme colors */
+    :root {
+      --bg-color: #f6f8fa;
+      --text-color: #24292e;
+      --link-color: #0366d6;
+      --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    }
+
     body {
-      font-family: Arial, sans-serif;
       margin: 0;
-      padding: 0;
+      font-family: var(--font-stack);
+      background-color: var(--bg-color);
+      color: var(--text-color);
       line-height: 1.6;
-      color: #333;
-      background-color: #f9f9f9;
+      padding: 1rem;
     }
+
     .container {
-      max-width: 800px;
+      max-width: 600px;
       margin: 0 auto;
+      background: #fff;
       padding: 2rem;
-      background-color: #fff;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-    .profile-photo {
-      width: 150px;
-      height: 150px;
+
+    .profile-pic {
+      width: 120px;
+      height: 120px;
       border-radius: 50%;
       object-fit: cover;
-      border: 3px solid #ddd;
+      display: block;
+      margin: 0 auto 1rem auto;
     }
+
     h1 {
-      margin: 0.5rem 0 0.2rem;
-    }
-    p.subtitle {
-      color: #555;
-      margin-top: 0;
-    }
-    .contact-info {
-      margin-top: 2rem;
-    }
-    .contact-info h2 {
-      margin-bottom: 0.5rem;
-    }
-    .contact-info ul {
-      list-style: none;
-      padding: 0;
-    }
-    .contact-info li {
-      margin-bottom: 0.5rem;
-    }
-    .placeholder-section {
-      margin-top: 2.5rem;
-    }
-    .placeholder {
-      background-color: #eee;
-      border: 1px dashed #ccc;
-      padding: 1.5rem;
       text-align: center;
-      color: #999;
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .bio {
+      text-align: center;
+      font-size: 1rem;
       margin-bottom: 1.5rem;
     }
-    footer {
+
+    .contact-info {
+      font-size: 0.95rem;
       text-align: center;
-      margin-top: 3rem;
-      padding-top: 1rem;
-      border-top: 1px solid #ddd;
-      color: #777;
-      font-size: 0.9rem;
+      margin-bottom: 1rem;
     }
-    a {
-      color: #1a0dab;
+
+    .contact-info a {
+      color: var(--link-color);
       text-decoration: none;
     }
-    a:hover {
+
+    .contact-info a:hover {
       text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #586069;
+      margin-top: 2rem;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <header>
-      <!-- Replace src with your LinkedIn photo URL -->
-      <img class="profile-photo" src="https://media.licdn.com/dms/image/your‑linkedin‑photo‑link" alt="Robert Dattolo Photo
+    <!-- ✅ Replace 'profile.jpg' with your actual profile image -->
+    <img src="profile.jpg" alt="Profile Photo" class="profile-pic" />
+
+    <!-- ✅ Replace 'Your Name' with your actual name -->
+    <h1>Your Name</h1>
+
+    <!-- ✅ Replace the paragraph below with your bio/description -->
+    <p class="bio">
+      This is a short placeholder bio about you. Describe your background, interests, profession, or anything else you'd like visitors to know.
+    </p>
+
+    <div class="contact-info">
+      <!-- ✅ Replace placeholders below with real contact info -->
+      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+      <p>Phone: <a href="tel:+1234567890">+1 (234) 567-890</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a></p>
+    </div>
+
+    <footer>
+      &copy; 2025 Your Name
+    </footer>
+  </div>
+</body>
+</html>
