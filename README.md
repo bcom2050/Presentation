@@ -74,6 +74,16 @@
 h2 {
   pointer-events: none;
 }
+
+.contact {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  background-color: rgba(255, 255, 255, 0.03); /* faint background */
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 12px rgba(77, 184, 255, 0.15); /* subtle glow */
+  transition: box-shadow 0.3s ease;
+}
     
   </style>
 </head>
@@ -97,6 +107,9 @@ h2 {
       <p>Email: <a href="mailto:robert@concisecs.com">robert@concisecs.com</a></p>
       <p>Phone: <a href="tel:5863826900">(586) 382-6900</a></p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/robertdattolo" target="_blank">linkedin.com/in/robertdattolo</a></p>
+      <p>PRESENTATION TUTORIAL: <a href="https://github.io" target="_blank">github.io</a></p>
+      <p>Concise CS: <a href="https://concisecs.com" target="_blank">concisecs.com</a></p>
+
     </div>
   </div>
 </body>
