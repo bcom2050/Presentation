@@ -3,101 +3,96 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Name - Personal Bio</title>
+  <title>Your Name - Bio</title>
   <style>
-    /* GitHub-like theme colors */
-    :root {
-      --bg-color: #f6f8fa;
-      --text-color: #24292e;
-      --link-color: #0366d6;
-      --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-    }
-
     body {
       margin: 0;
-      font-family: var(--font-stack);
-      background-color: var(--bg-color);
-      color: var(--text-color);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
       line-height: 1.6;
-      padding: 1rem;
     }
 
     .container {
       max-width: 600px;
       margin: 0 auto;
-      background: #fff;
-      padding: 2rem;
-      border-radius: 6px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      padding: 2rem 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
-    .profile-pic {
-      width: 120px;
-      height: 120px;
+    .profile-photo {
+      width: 150px;
+      height: 150px;
       border-radius: 50%;
       object-fit: cover;
-      display: block;
-      margin: 0 auto 1rem auto;
-    }
-
-    h1 {
-      text-align: center;
-      font-size: 1.8rem;
-      margin-bottom: 0.5rem;
-    }
-
-    .bio {
-      text-align: center;
-      font-size: 1rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .contact-info {
-      font-size: 0.95rem;
-      text-align: center;
+      border: 3px solid #333;
       margin-bottom: 1rem;
     }
 
-    .contact-info a {
-      color: var(--link-color);
+    h1 {
+      font-size: 1.8rem;
+      margin: 0.5rem 0 0.2rem;
+    }
+
+    h2 {
+      font-size: 1rem;
+      font-weight: normal;
+      color: #aaaaaa;
+      margin: 0 0 1rem;
+    }
+
+    p.bio {
+      text-align: center;
+      padding: 0 1rem;
+    }
+
+    .contact {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+    }
+
+    .contact a {
+      color: #4db8ff;
       text-decoration: none;
     }
 
-    .contact-info a:hover {
+    .contact a:hover {
       text-decoration: underline;
     }
 
-    footer {
-      text-align: center;
-      font-size: 0.8rem;
-      color: #586069;
-      margin-top: 2rem;
+    @media (min-width: 600px) {
+      h1 {
+        font-size: 2.2rem;
+      }
+
+      p.bio {
+        font-size: 1.05rem;
+      }
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <!-- ✅ Replace 'profile.jpg' with your actual profile image -->
-    <img src="profile.jpg" alt="Profile Photo" class="profile-pic" />
+    <!-- 🖼️ Profile Picture Placeholder -->
+    <img src="your-photo.jpg" alt="Your Name" class="profile-photo" />
 
-    <!-- ✅ Replace 'Your Name' with your actual name -->
-    <h1>Your Name</h1>
+    <!-- 🙋 Name and Title -->
+    <h1>YOUR NAME</h1>
+    <h2>YOUR TITLE (e.g., Web Developer, Designer)</h2>
 
-    <!-- ✅ Replace the paragraph below with your bio/description -->
+    <!-- 📝 Short Bio -->
     <p class="bio">
-      This is a short placeholder bio about you. Describe your background, interests, profession, or anything else you'd like visitors to know.
+      This is a short professional bio. You can write about your experience, passion, or what you're currently working on. Keep it concise and relevant.
     </p>
 
-    <div class="contact-info">
-      <!-- ✅ Replace placeholders below with real contact info -->
-      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-      <p>Phone: <a href="tel:+1234567890">+1 (234) 567-890</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a></p>
+    <!-- 📞 Contact Information -->
+    <div class="contact">
+      <p>Email: <a href="mailto:email@example.com">email@example.com</a></p>
+      <p>Phone: <a href="tel:+1234567890">+123 456 7890</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
     </div>
-
-    <footer>
-      &copy; 2025 Your Name
-    </footer>
   </div>
 </body>
 </html>
