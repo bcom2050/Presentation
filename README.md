@@ -75,7 +75,7 @@
 <body>
   <div class="container">
     <!-- 🖼️ Profile Picture Placeholder -->
-    <img src="your-photo.jpg" alt="Your Name" class="profile-photo" />
+    <img src="your-photo.jpg" alt="" class="profile-photo" />
 
     <!-- 🙋 Name and Title -->
     <h1>YOUR NAME</h1>
