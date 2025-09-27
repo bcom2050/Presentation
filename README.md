@@ -71,6 +71,10 @@
         font-size: 1.05rem;
       }
     }
+h2 {
+  pointer-events: none;
+}
+    
   </style>
 </head>
 <body>
