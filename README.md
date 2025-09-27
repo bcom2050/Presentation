@@ -85,13 +85,7 @@
     <!-- 📝 Short Bio -->
     <p class="bio">
       Information Technology Services. ✦ Interested in hearing about what opportunity I can help you succeed in.
-    <p class="bio">
-      My name is Robert Dattolo, founder and day-to-day operations at Concise CS, my own information technology company.
-I have been in the computer industry for the past 23 years and I am currently focused on small to medium sized businesses that do not employ an in-house IT department or administrator.
-I am motivated by likeminded professionals which led me to build my own IT firm.
-The top 3 services we deploy daily are computer and network security, risk management, and web development.
-I am looking to grow my business by helping fellow business owners grow theirs. May I highlight –from an owner’s perspective, how Concise CS can shrink your computer related spending by utilizing our on-demand services and industry experience.
-</p>
+    
     </p>
 
     <!-- 📞 Contact Information -->
