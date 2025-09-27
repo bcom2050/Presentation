@@ -75,7 +75,7 @@
 <body>
   <div class="container">
     <!-- 🖼️ Profile Picture Placeholder -->
-    <img src="your-photo.jpg" alt="" class="profile-photo" />
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQGc0AoNyDb4gg/profile-displayphoto-scale_200_200/B56ZkKZTXfIAAY-/0/1756816030217?e=1761782400&v=beta&t=aJd4sm2jE_1zAVRGVY04SBg0yW44PkdW-HRFfK-0fY4" alt="" class="profile-photo" />
 
     <!-- 🙋 Name and Title -->
     <h1>YOUR NAME</h1>
