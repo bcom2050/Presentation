@@ -83,7 +83,7 @@
 
     <!-- 📝 Short Bio -->
     <p class="bio">
-      Founder, Concise CS, LLC, Information Technology Services. ✦ Interested in hearing about what opportunity I can help you succeed in. Open to remote and contract work.
+      Information Technology Services. ✦ Interested in hearing about what opportunity I can help you succeed in. Open to remote and contract work.
     </p>
 
     <!-- 📞 Contact Information -->
