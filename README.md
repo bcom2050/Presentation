@@ -110,6 +110,7 @@ h2 {
       <p>PRESENTATION TUTORIAL: <a href="https://github.io" target="_blank">github.io</a></p>
       <p>Concise CS, LLC: <a href="https://concisecs.com" target="_blank">concisecs.com</a></p>
       <p>Slides: <a href="https://github.com/bcom2050/Presentation/raw/refs/heads/main/web_slides.pptx" target="_blank">Download</a></p>
+      <p>GitHub Professional: <a href="https://github.com/education/students" target="_blank">FREE for Students</a></p>
     </div>
   </div>
 </body>
