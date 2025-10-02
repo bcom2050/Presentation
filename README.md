@@ -109,7 +109,7 @@ h2 {
       <p>LinkedIn: <a href="https://www.linkedin.com/in/robertdattolo" target="_blank">linkedin.com/in/robertdattolo</a></p>
       <p>PRESENTATION TUTORIAL: <a href="https://github.io" target="_blank">github.io</a></p>
       <p>Concise CS, LLC: <a href="https://concisecs.com" target="_blank">concisecs.com</a></p>
-
+      <p>Slides: <a href="https://github.com/bcom2050/Presentation/raw/refs/heads/main/web_slides.pptx" target="_blank">Download</a></p>
     </div>
   </div>
 </body>
